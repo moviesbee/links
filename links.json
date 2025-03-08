@@ -1,4 +1,14 @@
-{ "rive": {
+{ 
+    "rive": {
     "name": "rive",
     "url": "https://rivestream.net"
-  }}
+  },
+    "filelionsembded": {
+        "name":"filelionsembeded",
+        "url":"https://ryderjet.com/embed/"
+  },
+    "filelionsdownload": {
+        "name": "filelionsdownload",
+        "url": "https://ryderjet.com/download/"
+  }
+}
