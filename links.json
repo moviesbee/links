@@ -10,5 +10,12 @@
     "filelionsdownload": {
         "name": "filelionsdownload",
         "url": "https://ryderjet.com/download/"
-  }
+  },
+    "netmirror":{
+        "name":"netmirror",
+        "url":"https://netfree.cc/mobile"
+    },
+    "netcookie":{
+        "name":"netcookie",
+        "url":"https://netmirror.8man.me/api/cookie"
 }
